@@ -1,6 +1,6 @@
 : # [TU NOMBRE Y APELLIDO]
 [Profesión, Título o Cargo al que aspiras]
-
+https://prueba123456789xdd.netlify.app/
 ---
 
 ## 📞 Información de Contacto
@@ -48,8 +48,6 @@
 **Habilidades Blandas (Soft Skills):** [Ej: Liderazgo, Comunicación asertiva, Resolución de problemas, Trabajo en equipo]
 **Idiomas:** 
   * [Idioma 1, ej: Inglés - Nivel C1]
-  * [Idioma 2, ej: Francés - Nivel B1]
-
 ---
 
 ## 📚 Cursos, Certificaciones y Formación Continua
